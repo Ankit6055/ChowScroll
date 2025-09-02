@@ -16,4 +16,7 @@ router.post(
   foodController.createFood
 );
 
+// Get /api/food/ [protected]
+// router.get("/", )
+
 module.exports = router;
